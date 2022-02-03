@@ -1,0 +1,14 @@
+
+.radio-button {
+    display: block;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #B9B9C3;
+    box-sizing: border-box;
+    border-radius: 50%;
+    margin-right: 2px;
+}
+
+.radio-button.selected {
+    border: 4px solid #022168;
+}
